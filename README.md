@@ -1,3 +1,3 @@
 # yuvrajrepository
 This is my repository
-Author-Yuvraj Singh Thakur
+Author-Yuvraj Singh 
